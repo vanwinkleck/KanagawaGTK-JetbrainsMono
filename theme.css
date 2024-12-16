@@ -2901,20 +2901,20 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 /* Here is the font change */
-@font-face {
-    font-family: "JetBrainsMono-RegularTTF";
-    src: local("JetbrainsMono-Regular"), url("../JetBrainsMono-Regular.ttf");
-}
 /*@font-face {
-    font-family: "JetBrainsMono-RegularTTF";
-    src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Regular.ttf");
+    font-family: "JetBrainsMono-Regular";
+    src: local("JetbrainsMono-Regular"), url("../JetBrainsMono-Regular.ttf");
 }*/
+@font-face {
+    font-family: "JetBrainsMono-Regular";
+    src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/otf/JetBrainsMono-Regular.otf");
+}
 
 :root {
-    --font-primary: "JetBrainsMono-RegularTTF";
-    --font-headline: "JetBrainsMono-RegularTTF";
-    --font-code: "JetBrainsMono-RegularTTF";
-    --font-display: "JetBrainsMono-RegularTTF";
+    --font-primary: "JetBrainsMono-Regular";
+    --font-headline: "JetBrainsMono-Regular";
+    --font-code: "JetBrainsMono-Regular";
+    --font-display: "JetBrainsMono-Regular";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
