@@ -2903,12 +2903,12 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 /* Here is the font change */
 @font-face {
     font-family: "JetBrainsMono-RegularTTF";
-    src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Regular.ttf");
+    src: local("JetbrainsMono-Regular"), url("../JetBrainsMono-Regular.ttf");
 }
-@font-face {
+/*@font-face {
     font-family: "JetBrainsMono-RegularTTF";
     src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/ttf/JetBrainsMono-Regular.ttf");
-}
+}*/
 
 :root {
     --font-primary: "JetBrainsMono-RegularTTF";
