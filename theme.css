@@ -2901,26 +2901,21 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 /* Here is the font change */
-/*@font-face {
-    font-family: "JetBrainsMono-Regular";
-	src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/otf/JetBrainsMono-Regular.otf?raw=true");
+@font-face {
+    font-family: "DaddyTimeMono";
+    src: url("https://raw.githubusercontent.com/thedawnsound/kanagawa-discord-fontchange/main/DaddyTimeMono.otf");
 }
 @font-face {
-    font-family: "JetBrainsMono-Regular";
-    src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/otf/JetBrainsMono-Regular.otf?raw=true");
+    font-family: "DaddyTimeMono";
+    src: url("https://raw.githubusercontent.com/thedawnsound/kanagawa-discord-fontchange/main/DaddyTimeMono.otf");
 }
 
 :root {
-    --font-primary: "JetBrains Mono Regular";
-    --font-headline: "JetBrains Mono Regular";
-    --font-code: "JetBrains Mono Regular";
-    --font-display: "JetBrains Mono Regular";
-    /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
-    --font-display: "Roboto";
-    --font-headline: "Roboto";
-    --font-code: "Roboto"; /* you should use a monospace font for this */
-/*} 
-
+    --font-primary: "DaddyTimeMono";
+    --font-headline: "DaddyTimeMono";
+    --font-code: "DaddyTimeMono";
+    --font-display: "DaddyTimeMono";
+}
 /*Remove Invite Button next to channel name*/
 .actionIcon-2sw4Sl {
     display: none;
