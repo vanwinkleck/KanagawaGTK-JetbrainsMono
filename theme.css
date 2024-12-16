@@ -2906,15 +2906,15 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
     src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/JetBrainsMono-Regular.ttf");
 }
 @font-face {
-    font-family: "JetBrainsMono Medium";
-    src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/JetBrainsMono-Medium.ttf");
+    font-family: "Hack Regular";
+    src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/Hack-Regular.ttf");
 }
 
 :root {
-    --font-primary: "JetBrainsMono Medium";
-    --font-headline: "JetBrainsMono Medium";
-    --font-code: "JetBrainsMono Medium";
-    --font-display: "JetBrainsMono Medium";
+    --font-primary: "Hack Regular";
+    --font-headline: "Hack Regular";
+    --font-code: "Hack Regular";
+    --font-display: "Hack Regular";
 }
 /*Remove Invite Button next to channel name*/
 .actionIcon-2sw4Sl {
