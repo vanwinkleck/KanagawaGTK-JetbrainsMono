@@ -2911,10 +2911,10 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 :root {
-    --font-primary: "TerminessTTF";
-    --font-headline: "TerminessTFF";
-    --font-code: "TerminessTTF Mono";
-    --font-display: "TerminessTTF";
+    --font-primary: "JetBrainsMono-RegularTTF";
+    --font-headline: "JetBrainsMono-RegularTTF";
+    --font-code: "JetBrainsMono-RegularTTF";
+    --font-display: "JetBrainsMono-RegularTTF";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
