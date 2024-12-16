@@ -2901,10 +2901,10 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 /* Here is the font change */
-/*@font-face {
+@font-face {
     font-family: "JetBrainsMono-Regular";
-    src: local("JetbrainsMono-Regular"), url("../JetBrainsMono-Regular.ttf");
-}*/
+	src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/otf/JetBrainsMono-Regular.otf");
+}
 @font-face {
     font-family: "JetBrainsMono-Regular";
     src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/otf/JetBrainsMono-Regular.otf");
