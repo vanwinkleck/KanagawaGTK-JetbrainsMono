@@ -2902,19 +2902,19 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 /* Here is the font change */
 @font-face {
-    font-family: "DaddyTimeMono";
+    font-family: "JetBrainsMono Regular";
     src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/JetBrainsMono-Regular.ttf");
 }
 @font-face {
-    font-family: "DaddyTimeMono";
+    font-family: "JetBrainsMono Regular";
     src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/JetBrainsMono-Regular.ttf");
 }
 
 :root {
-    --font-primary: "DaddyTimeMono";
-    --font-headline: "DaddyTimeMono";
-    --font-code: "DaddyTimeMono";
-    --font-display: "DaddyTimeMono";
+    --font-primary: "JetBrainsMono Regular";
+    --font-headline: "JetBrainsMono Regular";
+    --font-code: "JetBrainsMono Regular";
+    --font-display: "JetBrainsMono Regular";
 }
 /*Remove Invite Button next to channel name*/
 .actionIcon-2sw4Sl {
