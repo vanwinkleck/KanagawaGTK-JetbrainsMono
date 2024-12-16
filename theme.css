@@ -2901,7 +2901,7 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 /* Here is the font change */
-@font-face {
+/*@font-face {
     font-family: "JetBrainsMono-Regular";
 	src: url("https://github.com/JetBrains/JetBrainsMono/raw/refs/heads/master/fonts/otf/JetBrainsMono-Regular.otf?raw=true");
 }
@@ -2911,15 +2911,15 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 :root {
-    --font-primary: "JetBrainsMono-Regular";
-    --font-headline: "JetBrainsMono-Regular";
-    --font-code: "JetBrainsMono-Regular";
-    --font-display: "JetBrainsMono-Regular";
+    --font-primary: "JetBrains Mono Regular";
+    --font-headline: "JetBrains Mono Regular";
+    --font-code: "JetBrains Mono Regular";
+    --font-display: "JetBrains Mono Regular";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
     --font-code: "Roboto"; /* you should use a monospace font for this */
-}
+}*/ 
 
 /*Remove Invite Button next to channel name*/
 .actionIcon-2sw4Sl {
