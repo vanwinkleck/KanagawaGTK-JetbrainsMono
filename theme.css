@@ -2903,11 +2903,11 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 /* Here is the font change */
 @font-face {
     font-family: "DaddyTimeMono";
-    src: url("https://raw.githubusercontent.com/thedawnsound/kanagawa-discord-fontchange/main/DaddyTimeMono.otf");
+    src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/JetBrainsMono-Regular.ttf");
 }
 @font-face {
     font-family: "DaddyTimeMono";
-    src: url("https://raw.githubusercontent.com/thedawnsound/kanagawa-discord-fontchange/main/DaddyTimeMono.otf");
+    src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/JetBrainsMono-Regular.ttf");
 }
 
 :root {
