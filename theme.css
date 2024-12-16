@@ -2901,7 +2901,7 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 /* Here is the font change */
-@font-face {
+/* @font-face {
     font-family: "JetBrainsMono Regular";
     src: url("https://github.com/vanwinkleck/KanagawaGTK-JetbrainsMono/raw/refs/heads/main/JetBrainsMono-Regular.ttf");
 }
@@ -2915,7 +2915,7 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
     --font-headline: "Hack Regular";
     --font-code: "Hack Regular";
     --font-display: "Hack Regular";
-}
+}*/
 /*Remove Invite Button next to channel name*/
 .actionIcon-2sw4Sl {
     display: none;
